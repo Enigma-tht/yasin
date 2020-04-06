@@ -1,5 +1,5 @@
 #!/bin/env python3
-# code by : github.com/Enigma-tht
+# code by : github.com/genprokyror
 
 """
 
@@ -17,7 +17,7 @@ import time
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐ss
+	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
 	{re}╚═╗{cy}├┤  │ │ │├─┘
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	""")
